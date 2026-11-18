@@ -1,0 +1,14 @@
+C:\AulaCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.exe
+C:\AulaCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.deps.json
+C:\AulaCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.runtimeconfig.json
+C:\AulaCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.dll
+C:\AulaCSharp\MediaNotas\MediaNotas.App\bin\Debug\net9.0\MediaNotas.App.pdb
+C:\AulaCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.AssemblyInfoInputs.cache
+C:\AulaCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.AssemblyInfo.cs
+C:\AulaCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.csproj.CoreCompileInputs.cache
+C:\AulaCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.dll
+C:\AulaCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\refint\MediaNotas.App.dll
+C:\AulaCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.pdb
+C:\AulaCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\MediaNotas.App.genruntimeconfig.cache
+C:\AulaCSharp\MediaNotas\MediaNotas.App\obj\Debug\net9.0\ref\MediaNotas.App.dll
